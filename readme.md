@@ -14,3 +14,15 @@ Running experiments on baseline model for top100 prolific artists.
       
 NLP-project-feature engineering.ipynb:    
 Source codes for generating features for each lyrics data.
+      
+NLP-project-modeling.ipynb:     
+Model selection and feature selections.    
+
+Next step.docs:    
+Some notetaking for TODO list.     
+
+alldata.z01, alldata.z02, alldata.zip:    
+unzip to get original datasets and combined datasets.    
+
+projectNLP.ipynb:     
+some EDA and datacleaning in the source code.    
