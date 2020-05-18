@@ -1,12 +1,12 @@
 ### README
 
 Link for the project:
-https://github.com/wnykuang/projNLP     
+https://github.com/zishen1229/projNLP     
 
 Link for datasets:     
-https://github.com/wnykuang/projNLP/blob/master/alldata.z02    
-https://github.com/wnykuang/projNLP/blob/master/alldata.z01     
-https://github.com/wnykuang/projNLP/blob/master/alldata.zip
+https://github.com/zishen1229/projNLP/blob/master/alldata.z02    
+https://github.com/zishen1229/projNLP/blob/master/alldata.z01     
+https://github.com/zishen1229/projNLP/blob/master/alldata.zip
 
       
 This is the repository for Zishen Li and Wenyi Kuang's project for NLP(CS 6120) course.
